@@ -1,2 +1,2 @@
-# GNE213_Rob-tica
+# GNE213_Robótica
 Listas em Matlab
